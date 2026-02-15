@@ -1,0 +1,15 @@
+[lsc555-shaw.html](https://github.com/user-attachments/files/25319175/lsc555-shaw.html)
+<!DOCTYPE html> 
+<html>
+     <head> 
+         <title>Frenchie</title> 
+         <meta name="keywords"content="french and American, history buff/>
+         <meta charset="UTF-8>
+     </head>                   
+     <body>
+         <h2> Frenchie </h2>
+         <p> My name is Andrew Shaw and I am French and American and I'm a history buff<p>
+<a href="https://www.andrewshaw.com"> </a> 
+         <ul>
+     </body>
+</html>
