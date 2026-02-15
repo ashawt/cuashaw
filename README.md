@@ -8,8 +8,8 @@
      </head>                   
      <body>
          <h2> Frenchie </h2>
-         <p> My name is Andrew Shaw and I am French and American and I'm a history buff<p>
+         <p> The fench and american have a long history together. In 1778, the French were the first nation to recognize the independence of the United States, and sent troops and ships to help it gain independence. In 1917, the Americans sent troops to help France in WW1. In 1944, the US, free France from Nazi Germany. <p>
 <a href="https://www.andrewshaw.com"> </a> 
-         <ul>
+         <ul> History, World Wars, War of Independence </ul>
      </body>
 </html>
